@@ -1,3 +1,3 @@
-<h1>Hi!</h1>
+<h1>Hello!</h1>
 
 ![Snake animation](https://github.com/andressaakemih/andressaakemih/blob/output/github-contribution-grid-snake.svg)
