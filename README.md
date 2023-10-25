@@ -7,7 +7,7 @@
 
 <h3>Onde me encontrar</h3>
 <li>
-  <ul>
+  <ul style="list-style-type: none;">
     <a href="https://www.linkedin.com/in/andressa-akemi-hara/">LinkedIn</a>
   </ul>
   <ul>
