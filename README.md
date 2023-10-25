@@ -6,12 +6,5 @@
 - 🌱 &nbsp; Aprendendo mais sobre **Java | Spring Boot | Front-End | Acessibilidade na Web**.
 
 <h3>Onde me encontrar</h3>
-<li>
-  <ul style="list-style-type: none;">
-    <a href="https://www.linkedin.com/in/andressa-akemi-hara/">LinkedIn</a>
-  </ul>
-  <ul>
-    <a href="mailto:andressaakemih@gmail.com">E-mail</a>
-  </ul>
-</li>
-
+- <a href="https://www.linkedin.com/in/andressa-akemi-hara/">LinkedIn</a>
+- <a href="mailto:andressaakemih@gmail.com">E-mail</a>
