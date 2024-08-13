@@ -1,5 +1,4 @@
 <h2>About me</h2>
 
-- 🎓 **Full Stack Development** graduate student at <a href="https://descomplica.com.br/">Descomplica</a>.
-- 💼 Working as an **Operations Technician** at **Secretaria de Segurança Pública de Mato Grosso**
-- 🌱 Learning more about **Java | Spring Boot | Front-End**.
+- 💼 Working as an **Operations Technician** at **SESP-MT**
+- 🌱 Learning more about **Kubernets | Nutanix | Rancher**.
